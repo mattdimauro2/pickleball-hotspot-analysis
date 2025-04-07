@@ -131,7 +131,7 @@ pickleball-analysis/
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone the repository:
 ```bash
@@ -155,7 +155,7 @@ python scripts/random_forest.py
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - Python (`pandas`, `scikit-learn`, `matplotlib`)
 - Tableau Public
@@ -164,6 +164,6 @@ python scripts/random_forest.py
 
 ---
 
-## 👤 Author
+## Author
 
 Created by Matthew DiMauro to support data-informed growth in the world of pickleball.
