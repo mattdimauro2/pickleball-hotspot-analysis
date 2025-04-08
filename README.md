@@ -125,7 +125,8 @@ pickleball-analysis/
 ├── raw-data/           # Original scraped/raw files
 ├── clean-data/         # Cleaned datasets used in modeling & Tableau
 ├── scripts/            # Python scripts for cleaning, merging, modeling
-├── visualization/      # Tableau dashboards and supporting charts
+├── visualization/      # EDA and supporting visualizations
+├── Tableau/            # Tableau dashboards
 └── README.md           # Project overview and documentation
 ```
 
@@ -166,4 +167,4 @@ python scripts/random_forest.py
 
 ## Author
 
-Created by Matthew DiMauro to support data-informed growth in the world of pickleball.
+Built by Matt DiMauro to support data-informed growth in the world of pickleball.
